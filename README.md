@@ -7,21 +7,21 @@ The application is built with **Python + Tkinter** and packaged into a **Windows
 
 ---
 
-## ✈️ Features
+## Features
 
-### 📊 Data Analysis
+### Data Analysis
 - Descriptive statistics
 - Correlation analysis
 - Principal Component Analysis (PCA / ACP)
 - Interactive tables and visualizations
 
-### 🤖 Artificial Intelligence
+### Artificial Intelligence
 - K-Means clustering (k = 3 to 7)
 - Random Forest classification
 - Cluster quality metrics (silhouette score, inertia)
 - Prediction of new airport zones
 
-### 🔐 Cybersecurity Analysis
+### Cybersecurity Analysis
 - Anomaly detection using:
   - Isolation Forest
   - Local Outlier Factor (LOF)
@@ -31,7 +31,7 @@ The application is built with **Python + Tkinter** and packaged into a **Windows
 
 ---
 
-## 🖥️ User Interface
+## User Interface
 - Modern Tkinter-based UI
 - Interactive charts (Matplotlib)
 - Responsive layout
@@ -47,10 +47,6 @@ AirportSec-Analyse/
 ├── requirements.txt # Python dependencies
 ├── README.md # Project documentation
 ├── .gitignore # Git ignore rules
-
-
-> ⚠️ The folders `build/` and `dist/` are **NOT** tracked in Git  
-> The compiled `.exe` is distributed via **GitHub Releases**.
 
 ---
 
@@ -69,7 +65,7 @@ pip install -r requirements.txt
 
 python airport.py
 
-📦 Build the Windows Executable (.exe)
+Build the Windows Executable (.exe)
 
 Make sure PyInstaller is installed:
 
@@ -83,14 +79,14 @@ The executable will be generated in:
 
 dist/airport.exe
 
-📥 Distribution
+Distribution
 
     The .exe file is not stored in the Git repository
 
     Downloadable executables are published under:
 
-👉 GitHub → Releases → Version tag
-🧠 Technologies Used
+ GitHub → Releases → Version tag
+Technologies Used
 
     Python 3.9+
 
@@ -110,7 +106,7 @@ dist/airport.exe
 
     PyInstaller
 
-📜 License
+License
 
 This project is provided for educational and analytical purposes.
 👤 Author
