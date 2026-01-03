@@ -51,18 +51,18 @@ AirportSec-Analyse/
 ---
 
 ## 🚀 How to Run (Development Mode)
-```bash
-### 1️⃣ Create a virtual environment (recommended)
 
+### 1️⃣ Create a virtual environment (recommended)
+```bash
 python -m venv venv
 venv\Scripts\activate
-
+```
 2️⃣ Install dependencies
-
+```bash
 pip install -r requirements.txt
-
+```
 3️⃣ Run the application
-
+```bash
 python airport.py
 
 Build the Windows Executable (.exe)
@@ -78,11 +78,11 @@ pyinstaller airport.spec
 The executable will be generated in:
 
 dist/airport.exe
-
+```
 
 
 Technologies Used
-
+```bash
     Python 3.9+
 
     Tkinter
