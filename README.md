@@ -100,7 +100,7 @@ Technologies Used
     SciPy
 
     PyInstaller
-
+```
 License
 
 This project is provided for educational and analytical purposes.
