@@ -51,9 +51,9 @@ AirportSec-Analyse/
 ---
 
 ## 🚀 How to Run (Development Mode)
-
-### 1️⃣ Create a virtual environment (recommended)
 ```bash
+### 1️⃣ Create a virtual environment (recommended)
+
 python -m venv venv
 venv\Scripts\activate
 
