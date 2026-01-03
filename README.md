@@ -79,13 +79,8 @@ The executable will be generated in:
 
 dist/airport.exe
 
-Distribution
 
-    The .exe file is not stored in the Git repository
 
-    Downloadable executables are published under:
-
- GitHub → Releases → Version tag
 Technologies Used
 
     Python 3.9+
